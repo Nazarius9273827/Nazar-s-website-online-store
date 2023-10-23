@@ -1,0 +1,38 @@
+.card-portfolio {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding-top: 3rem;
+}
+
+.footer-form-field {
+    width: 358px;
+    height: 50px;
+    border-radius: 4px;
+    border: 1px solid rgb(0, 0, 0);
+    background: rgb(255, 255, 0);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+    margin: 20px 0;
+}
+
+.footer-form-text {
+    font-size: xx-large;
+    font-family: 'Lobster', sans-serif;
+}
+
+.footer-form-btn {
+    width: 200px;
+    height: 50px;
+    border-radius: 4px;
+    background: #7bff00;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-form-btn-text {
+    font-size: x-large;
+    padding-top: 12px;
+    font-family: 'Lobster', sans-serif;
+}
